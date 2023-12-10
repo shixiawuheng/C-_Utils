@@ -1,7 +1,5 @@
 #include "hook.h"
 
-#include <ostream>
-
 namespace Utils
 {
 	void _Handle(UINT64 rsp, HookHandle Handle)
